@@ -1,0 +1,7 @@
+Output
+
+
+C:\>cd Programs
+C:\programs>javac Solution.java
+C:\programs>java Solution
+ 4 7 5 6 
